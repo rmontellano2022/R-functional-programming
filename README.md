@@ -1,7 +1,7 @@
-# How to Automate Repeated Things in R
+# D-Lab R Functional Programming
+This is the repository for D-Lab's introductory Python-Fundamentals workshop series. Laptop, Internet connection, and Zoom account required.
 
 by [Jae Yeon Kim](https://jaeyk.github.io/)
-
 File an [issue](https://github.com/dlab-berkeley/automating-workflows-in-R/issues) if you have problems, questions or suggestions.
 
 ## Overview
@@ -31,5 +31,52 @@ This workshop helps you to step up your R skills with functional programming. Th
 Launch the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/R-functional-programming/master?urlpath=rstudio). Please do so before attending the worskshop as it would take a while (especially, if you do it for the first time).
 
 ---
+## About the UC Berkeley D-Lab
+
+D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops such as R Fundamentals, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
+
+Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. View our [calendar](http://dlab.berkeley.edu/calendar-node-field-date) for upcoming events, and also learn about how to utilize our [consulting](http://dlab.berkeley.edu/consulting) and [data](http://dlab.berkeley.edu/data-resources) services. 
+
+(include definition of IOKN2K!)
+
+# Other D-Lab Python Workshops
+
+Check out the [D-Lab Computational Text Analysis Working Group by clicking here](http://dlabctawg.github.io/)
+
+### Basic competency
+
+* [R Fundamentals: Parts 1-4](https://github.com/dlab-berkeley/R-Fundamentals)
+* [Geospatial Data in R: Parts 1-3](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-R-with-sf)
+* [Data Wrangling and Manipulation in R](https://github.com/dlab-berkeley/R-wrang)
+
+### Intermediate/advanced copmetency
+
+* 
+
+### Legacy workshops (need updating)
+* 
+
+---
+## Contributors 
+
+* [Contributor A](link to D-Lab bio)
+* [Contributor B](link to D-Lab bio)
+* Much of the Python-Fundamentals materials were adapted from those produced by Software Carpentry. Thank you!
+----
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+---
+<div style="display:inline-block;vertical-align:middle;">
+<a href="https://dlab.berkeley.edu/" target="_blank">
+<img src ="https://dlab.berkeley.edu/sites/default/files/logo.png" width="60" align="left" border=0 style="border:0; text-decoration:none; outline:none">
+</a>
+</div>
+<div style="display:inline-block;vertical-align:middle;align:left">
+    <div style="font-size:larger">D-Lab @ University of California - Berkeley
+    </br>
+    <a href="https://dlab.berkeley.edu" target="_blank">https://dlab.berkeley.edu</a>
+    </br>
+    &nbsp;
+    </div>
+</div>
